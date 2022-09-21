@@ -3,4 +3,4 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by [Your Name] for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Ehsan](https://github.com/ehsanelgendi) for the [Lighthouse Labs](https://www.lighthouselabs.ca/en/) Web Development Bootcamp.
